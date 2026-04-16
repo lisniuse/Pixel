@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Heart body -->
+  <path d="M32 52 C6 42 4 28 4 22 C4 12 12 4 22 4 C28 4 31 8 32 12 C33 8 36 4 42 4 C52 4 60 12 60 22 C60 28 58 42 32 52 Z" fill="#FF69B4"/>
+  <!-- Soft highlight on left lobe -->
+  <ellipse cx="20" cy="18" rx="7" ry="8" fill="#FFD6E7" opacity="0.45"/>
+  <!-- Maid bow - left wing -->
+  <path d="M32 12 C28 9 18 8 16 12 C18 16 27 14 32 12 Z" fill="white"/>
+  <!-- Maid bow - right wing -->
+  <path d="M32 12 C36 9 46 8 48 12 C46 16 37 14 32 12 Z" fill="white"/>
+  <!-- Maid bow - center knot -->
+  <circle cx="32" cy="12" r="3" fill="white"/>
+</svg>
